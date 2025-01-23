@@ -1,0 +1,8 @@
+package com.user;
+
+public class User {
+	
+	Integer userId;
+	String userName;
+
+}

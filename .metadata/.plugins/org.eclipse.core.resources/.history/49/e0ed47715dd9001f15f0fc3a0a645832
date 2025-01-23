@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: ApiGateway
+  cloud:
+    gateway:
+      routes:
+      - id: UserService
+        uri:
+          http://localhost:8083/
+        predicates:
+        - Path=/users/**
+      - id: ProductService 
+        uri:
+          http://localhost:8082/
+        predicates:
+        - Path=/product/**
+				
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka/
+server:
+  port: 8001
