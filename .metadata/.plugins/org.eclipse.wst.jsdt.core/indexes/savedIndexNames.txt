@@ -1,14 +1,1 @@
-INDEX VERSION 1.4+C:\Users\mahes\OneDrive\Desktop\Sprimg\Microservices\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3478455606.index
-503230505.index
-3037678151.index
-1050042363.index
-335211976.index
-3568067845.index
-3584998308.index
-2617863111.index
-1026174221.index
-3606858486.index
-1309452588.index
-688078814.index
-1698827149.index
+INDEX VERSION 1.4+C:\Users\mahes\OneDrive\Desktop\Spring\Microservices\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
